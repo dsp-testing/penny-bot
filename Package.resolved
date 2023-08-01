@@ -283,8 +283,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-openapi-runtime",
       "state" : {
-        "revision" : "c5ab4e85a1b86cae78d5e40d845cf3b4b4497cf7",
-        "version" : "0.1.5"
+        "revision" : "5b5b5efcd81a1cd9e57baae16b65cd06364dc9b7",
+        "version" : "0.1.6"
       }
     },
     {
